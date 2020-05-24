@@ -1,0 +1,52 @@
+/* Bara de nav*/
+nav {
+    background-color: rgb(245, 230, 23);
+    color: rgb(18, 171, 231) ;
+    height: 3em;
+}
+
+.nav {
+    position: relative;
+    display: flex;
+    width: 16em;
+    left: 45%;
+    padding: 1em;
+    z-index: 1;
+    list-style: none;
+}
+
+.nav li {
+    padding-left: 0.5em;
+    padding-right: 0.3em;
+}
+
+.uni li a {
+    display: block;
+    padding: 10px 15px;
+    background-color: rgb(117, 189, 51);
+    color: rgb(30, 94, 212);
+}
+
+.uni li a:hover {
+    background-color: green;
+    color: white;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    width: 14em;
+    min-width:140px;
+    list-style: none;
+    left: -0.3px;
+}
+
+.nav li:hover{
+    background-color: white;
+    color: black;
+    height: 1.5em;
+}
+
+.nav li:hover > ul {
+    display:block;
+}

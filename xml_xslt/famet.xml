@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/famet.xsl" type="text/xsl" ?>
+<famet>
+    <helicoptero>
+        <fabricante>B</fabricante>
+        <Modelo>CH-47F</Modelo>
+        <año>2021</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>NHI</fabricante>
+        <Modelo>NH90-TTH</Modelo>
+        <año>2014</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>EC</fabricante>
+        <Modelo>Tiger</Modelo>
+        <año>2007</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>EC</fabricante>
+        <Modelo>EC135</Modelo>
+        <año>2005</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>EC</fabricante>
+        <Modelo>Super Puma</Modelo>
+        <año>1998</año>
+    </helicoptero>
+</famet>

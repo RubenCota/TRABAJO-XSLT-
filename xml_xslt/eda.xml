@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/eda.xsl" type="text/xsl" ?>
+<fuerza_aerea>
+    <helicoptero>
+        <fabricante>NHI</fabricante>
+        <Modelo>NH-90-TTH</Modelo>
+        <año>2020</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>AH</fabricante>
+        <Modelo>H215</Modelo>
+        <año>2016</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>EC</fabricante>
+        <Modelo>Super Puma</Modelo>
+        <año>2005</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>EC</fabricante>
+        <Modelo>EC120B</Modelo>
+        <año>2000</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>Sikorsky</fabricante>
+        <Modelo>S-76C</Modelo>
+        <año>1991</año>
+    </helicoptero>
+</fuerza_aerea>

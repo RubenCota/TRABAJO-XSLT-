@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="/marina.xsl" type="text/xsl" ?>
+<marina>
+    <helicoptero>
+        <fabricante>NHI</fabricante>
+        <Modelo>NH90-NFH</Modelo>
+        <año>2023</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>Saab</fabricante>
+        <Modelo>Skeldar</Modelo>
+        <año>2014</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>Sikorsky</fabricante>
+        <Modelo>S-70</Modelo>
+        <año>1989</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>Agusta</fabricante>
+        <Modelo>AB212</Modelo>
+        <año>1974</año>
+    </helicoptero>
+    <helicoptero>
+        <fabricante>Bell</fabricante>
+        <Modelo>AH-1G</Modelo>
+        <año>1973</año>
+    </helicoptero>
+</marina>
